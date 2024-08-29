@@ -1,0 +1,19 @@
+# Ignore build directories
+build/
+cmake-build-debug/
+cmake-build-release/
+out/
+dist/
+bin/
+obj/
+target/
+
+# Ignore Visual Studio Code files
+.vscode/
+.vscode/*
+
+# Ignore macOS specific files
+.DS_Store
+
+# Ignore system generated files
+Thumbs.db
