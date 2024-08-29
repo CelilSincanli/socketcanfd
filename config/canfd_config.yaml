@@ -1,5 +1,5 @@
 ---
-default_can_interface_name: can4
+default_can_interface_name: can0
 default_can_filter_ids:
   - 1536
   - 1537
